@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1046793041789",
+    "firebase_url": "https://travellogger-494bb.firebaseio.com",
+    "project_id": "travellogger-494bb",
+    "storage_bucket": "travellogger-494bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046793041789:android:86833d313f6e380be5be14",
+        "android_client_info": {
+          "package_name": "com.example.travellogger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046793041789-5fr71pdgp40ao8vd50homo2md0e8kt70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh6vRpOJp4G04HLBaXhNEA6629fsVWecM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046793041789-5fr71pdgp40ao8vd50homo2md0e8kt70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
